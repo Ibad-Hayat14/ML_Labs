@@ -29,7 +29,7 @@ All notebooks are self-contained, well-documented, and ready to run perfect for 
 | **Lab 12** | End-to-End ML Pipeline (Titanic) | Full pipeline: imputation, encoding, SMOTE, PCA, ElasticNet, hyperparameter tuning |
 
 ---
-
+```
 ## Repository Structure
 ml-labs/
 ├── Lab01_NumPy_Pandas_Fundamentals.ipynb
@@ -45,19 +45,19 @@ ml-labs/
 ├── Lab11_Unsupervised_Learning_Wine.ipynb
 ├── Lab12_End_to_End_Pipeline_Titanic.ipynb
 └── README.md
-
+```
  Note: Datasets are either loaded via sklearn.datasets or included in standard libraries (e.g., seaborn.load_dataset). No external data files are required.
 ---
 
- ## How to run
-# Clone the repo
+# How to run
+### Clone the repo
 git clone https://github.com/your-username/ml-labs.git
 cd ml-labs
 
-# Install dependencies
+### Install dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn scipy imbalanced-learn
 
-# Launch Jupyter
+### Launch Jupyter
 jupyter notebook
 ---
 
@@ -70,7 +70,7 @@ jupyter notebook
  Advanced Techniques: SMOTE, PCA, ElasticNet, ensemble methods
  Pipeline Building: Robust, reusable ML workflows
 
- License
+ ### License
 This work is for educational purposes. Feel free to use it as a reference or learning resource.
 
 Portfolio Tip: This repo demonstrates a progressive learning journey - from basic data manipulation to full ML pipelines—ideal for internships or graduate applications.
