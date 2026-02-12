@@ -46,9 +46,9 @@ ml-labs/
 ├── Lab12_End_to_End_Pipeline_Titanic.ipynb
 └── README.md
 ```
- Note: Datasets are either loaded via sklearn.datasets or included in standard libraries (e.g., seaborn.load_dataset). No external data files are required.
+     Note: Datasets are either loaded via sklearn.datasets or included in standard libraries (e.g., seaborn.load_dataset). No external data files are required.
 ---
-
+```
 # How to run
 ### Clone the repo
 git clone https://github.com/your-username/ml-labs.git
@@ -58,7 +58,8 @@ cd ml-labs
 pip install numpy pandas matplotlib seaborn scikit-learn scipy imbalanced-learn
 
 ### Launch Jupyter
-jupyter notebook
+    jupyter notebook
+```
 ---
 
  ### Key Skills Demonstrated
