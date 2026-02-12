@@ -32,6 +32,7 @@ All notebooks are self-contained, well-documented, and ready to run perfect for 
 ```
 ## Repository Structure
 ml-labs/
+├──data
 ├── Lab01_NumPy_Pandas_Fundamentals.ipynb
 ├── Lab02_Data_Wrangling_Visualization.ipynb
 ├── Lab03_Linear_Regression_Insurance.ipynb
