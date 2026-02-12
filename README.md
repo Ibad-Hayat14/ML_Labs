@@ -1,8 +1,11 @@
 #  Machine Learning Labs (F23 AI - Green)
 
-> **Student**: Ibadullah Hayat (Reg No: B23F0001AI010)  
+> **Student**: Ibadullah Hayat (Reg No: B23F0001AI010)
+> 
 > **Instructor**: Mr Usama Ahmed Khan
-> **University**: Pak-Austria Fachhochschule Institute of Applied Sciences and Technology 
+> 
+> **University**: Pak-Austria Fachhochschule Institute of Applied Sciences and Technology
+> 
 > **Course**: Machine Learning (Fall 2025)
 
 This repository contains the complete set of **12 hands-on Machine Learning labs**, covering foundational concepts from data preprocessing to advanced modeling techniques. Each lab is implemented using **Python, NumPy, Pandas, Scikit-learn, and Matplotlib**, with clear explanations and visualizations.
